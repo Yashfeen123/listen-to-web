@@ -1,0 +1,13 @@
+# SQLite Database
+*.db
+database.db
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache & Audio Outputs
+__pycache__/
+*.pyc
+static/audio/*.mp3
